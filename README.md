@@ -16,6 +16,12 @@ To write a python program to find the rank of a matrix
 
 
 
+<img width="386" alt="Screenshot 2024-04-03 100143" src="https://github.com/SIVAmech123/RANK-OF-A-MATRIX/assets/151629067/44e4a004-165b-431d-a8c4-e9ca3a538aaa">
+
+
+
+
+
 
 
 
